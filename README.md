@@ -9,7 +9,7 @@ arrays: array.php ; mostraarray.php </br>
 option: escolhaimagens.php ; mostrar.php </br>
 post: escolhanumeros.php ; mostrarnum.php </br>
 perguntas: quizdeanimais.php ; verificarpergunta.php ; minhasfuncoes.php </br>
-<br><br>
+<br>
 # ⋆౨ৎ linguagens
 principalmente php
 
